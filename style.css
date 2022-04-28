@@ -29,6 +29,9 @@ body {
     position: relative;
     border-radius: 15%;
 }
+.cell:hover {
+    background-color: #E0B700;
+}
 
 .X1 {
     width: 100%;
